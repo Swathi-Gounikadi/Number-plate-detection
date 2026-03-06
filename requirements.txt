@@ -92,10 +92,11 @@ wrapt==2.0.1
 streamlit
 ultralytics
 easyocr
-opencv-python
+opencv-python-headless
 numpy==1.26.4
 pillow
 torch
 torchvision
+
 
 
